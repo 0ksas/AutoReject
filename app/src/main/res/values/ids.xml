@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="onSwitch" type="id"/>
+    <item name="numberList" type="id"/>
+    <item name="numberInput" type="id"/>
+</resources>
